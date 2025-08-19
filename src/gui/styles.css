@@ -1,0 +1,49 @@
+.root {
+    -fx-background-image: url("/gui/background.jpg");
+     -fx-background-size: cover;
+        -fx-background-repeat: no-repeat;
+        -fx-background-position: center;
+        -fx-padding: 30;
+        -fx-font-family: "Segoe UI", sans-serif;
+}
+
+.label {
+   -fx-font-size: 14px;
+       -fx-text-fill: #f0f0f0;
+}
+
+.text-field, .password-field {
+     -fx-background-color: rgba(255, 255, 255, 0.1);
+        -fx-text-fill: #ffffff;
+        -fx-border-color: #666;
+        -fx-border-radius: 6;
+        -fx-background-radius: 6;
+        -fx-padding: 8 12;
+        -fx-font-size: 14px;
+        -fx-prompt-text-fill: #aaaaaa;
+}
+
+.button {
+    -fx-background-color: #26a69a;
+    -fx-text-fill: white;
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+    -fx-background-radius: 6;
+    -fx-padding: 8 18;
+    -fx-cursor: hand;
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.3), 4, 0, 0, 1);
+}
+.button:hover {
+    -fx-background-color: #1f8a80;
+}
+
+.list-view {
+    -fx-background-color: transparent;
+    -fx-control-inner-background: rgba(48, 48, 55, 0.6);
+    -fx-border-color: transparent;
+    -fx-border-radius: 6;
+    -fx-background-radius: 6;
+    -fx-text-fill: #ffffff;
+    -fx-font-size: 13px;
+    -fx-padding: 8;
+}
