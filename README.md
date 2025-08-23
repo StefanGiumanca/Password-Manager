@@ -50,5 +50,11 @@ Replace /path/to/javafx-sdk/lib with the path to your local JavaFX SDK installat
 
 Here are some screenshots of the application in action:
 
+<img width="946" height="526" alt="Screenshot 2025-08-23 at 18 56 40" src="https://github.com/user-attachments/assets/0a08bc70-3ae5-4509-943c-f67752a23b2b" />
+
+<img width="945" height="524" alt="Screenshot 2025-08-23 at 18 57 04" src="https://github.com/user-attachments/assets/83f77091-0179-4d87-b141-ef750b585a00" />
+
+<img width="942" height="519" alt="Screenshot 2025-08-23 at 18 57 20" src="https://github.com/user-attachments/assets/5c4a21b1-dd56-449c-9004-d35a6668865a" />
+
 
 
